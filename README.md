@@ -1,2 +1,3 @@
 # hellow_word
-It's repository for my ides
+I love js and python!
+P.S. It's repository for my ides
